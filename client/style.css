@@ -1,0 +1,38 @@
+#CalculateBtn{
+    background-color: rgb(212, 217, 65);
+    border: 2px solid yellow;
+    border-radius: 10px;
+    width: 100px;
+    height: 24px;
+}
+#electricImg{
+    width:100px ;
+    height: 70px;
+    border-radius: 30px;
+}
+
+#inputConsumption{
+    border: 2px solid rgb(100, 88, 30);
+    border-radius: 10px;
+    width: 150px;
+    height: 20px;
+}
+#calculate{
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#annualCosts{
+    border: 1px solid;
+    border-radius: 5px;
+    height:100px ;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+}
